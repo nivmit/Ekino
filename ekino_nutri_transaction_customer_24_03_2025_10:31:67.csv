@@ -1,0 +1,6 @@
+store_id,customer_id,transaction_id,transaction_mode,favorite_item_name,favorite_item_id,transaction_date,region,market,category,sub_category
+"F01T2","898sfbshgsf0sabfjasb","sag9sf98sfsfasfaf","pos","Americano","34","2025-03-24","EMEA","GBR","DRINKS","HOT COFFEE"
+"F01T2","898sfbshgsf0sabfjasb","sag9sf98sfsfasfaf","pos","Breakfast Wraps","35","2025-03-24","EMEA","FRA","FOOD","BREAKFAST"
+"F01T3","108sfbshgsf0sabfj123","sag9sf98sfsfasfaf","pos","Egg Bites & Bakes","36","2025-03-24","EMEA","SAU","FOOD","BREAKFAST"
+"F01T4","678sfbshgsf0sabfj980","sag9sf98sfsfasfaf","pos","Cold Brew","37","2025-03-24","EMEA","GBR","DRINKS","COLD COFFEE"
+"F01T2","898sfbshgsf0sabfjasb","sag9sf98sfsfasfaf","pos","Cold Brew","37","2025-03-24","EMEA","GBR","DRINKS","COLD COFFEE"
